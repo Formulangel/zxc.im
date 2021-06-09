@@ -1,10 +1,10 @@
 {
   "files": {
-    "main-748942c6.css": "/main-748942c6.57db3251.chunk.css",
-    "main-748942c6.js": "/main-748942c6.938fe240.chunk.js",
+    "main-748942c6.css": "/main-748942c6.bd20e444.chunk.css",
+    "main-748942c6.js": "/main-748942c6.02557202.chunk.js",
     "main-b18a956b.js": "/main-b18a956b.32b999b2.chunk.js",
     "main-c714bc7b.css": "/main-c714bc7b.f06fd558.css",
-    "main-c714bc7b.js": "/main-c714bc7b.094f81aa.js",
+    "main-c714bc7b.js": "/main-c714bc7b.2c48ab9b.js",
     "vendor-00c385fd.js": "/vendor-00c385fd.52d1481e.chunk.js",
     "vendor-09281f7b.js": "/vendor-09281f7b.5788ab36.chunk.js",
     "vendor-10e2e882.js": "/vendor-10e2e882.a1a2810f.chunk.js",
@@ -19,7 +19,7 @@
     "vendor-6372df95.js": "/vendor-6372df95.5fd1f473.chunk.js",
     "vendor-678f84af.js": "/vendor-678f84af.211e3b83.chunk.js",
     "vendor-69867e88.js": "/vendor-69867e88.513ace5c.chunk.js",
-    "vendor-6e8b5f81.js": "/vendor-6e8b5f81.ec9d5e76.chunk.js",
+    "vendor-6e8b5f81.js": "/vendor-6e8b5f81.d0f24121.chunk.js",
     "vendor-6ec74ecd.js": "/vendor-6ec74ecd.80999f2a.chunk.js",
     "vendor-7274e1de.js": "/vendor-7274e1de.791b33f5.chunk.js",
     "vendor-72f93981.js": "/vendor-72f93981.da1babf3.chunk.js",
@@ -47,7 +47,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "vendor-6e8b5f81.ec9d5e76.chunk.js",
+    "vendor-6e8b5f81.d0f24121.chunk.js",
     "vendor-2a42e354.3a2db99b.chunk.js",
     "vendor-1d8c4c28.bc4400d9.chunk.js",
     "static/css/vendor-a6184d7b.ae460035.chunk.css",
@@ -88,12 +88,12 @@
     "vendor-b16b964d.a998398a.chunk.js",
     "vendor-4c5f017f.a15be7de.chunk.js",
     "vendor-cfbf0a2e.5dbf9fc4.chunk.js",
-    "static/css/main-748942c6.57db3251.chunk.css",
-    "main-748942c6.57db3251.chunk.css",
-    "main-748942c6.938fe240.chunk.js",
+    "static/css/main-748942c6.bd20e444.chunk.css",
+    "main-748942c6.bd20e444.chunk.css",
+    "main-748942c6.02557202.chunk.js",
     "main-b18a956b.32b999b2.chunk.js",
     "static/css/main-c714bc7b.f06fd558.css",
     "main-c714bc7b.f06fd558.css",
-    "main-c714bc7b.094f81aa.js"
+    "main-c714bc7b.2c48ab9b.js"
   ]
 }
